@@ -47,7 +47,7 @@ const creatorData = {
     twitter: "https://twitter.com/Abhishek021217",
     instagram: "https://instagram.com/abhisheksingh170212"
   },
-  cover: "public/blog-images/blog-img-second.png",
+  cover: "/blog-images/blog-img-second.png",
   images: [
     "/images/img.jpeg",
     "/images/img2.jpeg",
