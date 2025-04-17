@@ -135,7 +135,7 @@ const Footer = () => {
             <Flex align="center" mb={4}>
               <Avatar
                 name="CodeOps Creator"
-                src="public\images\img.jpeg"
+                src="\images\img.jpeg"
                 mr={3}
                 size="md"
                 border={`2px solid ${colorMode === 'light' ? 'blue.500' : 'blue.300'}`}
