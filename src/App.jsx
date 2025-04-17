@@ -6,7 +6,7 @@ import Articles from "./pages/Articles";
 import JavaScript from "./pages/JavaScript";
 import ReactPage from "./pages/ReactPage";
 import Tools from "./pages/Tools";
-import Creator from "./pages/Creator";
+import Creator from "../pages/Creator";
 import Footer from "./components/Footer";
 import FloatingCode from './components/FloatingCode'
 
