@@ -6,7 +6,7 @@ import Articles from "./Pages/Articles";
 import JavaScript from "./Pages/JavaScript";
 import ReactPage from "./Pages/ReactPage";
 import Tools from "./Pages/Tools";
-import CreatorProfile from "./Pages/Creator";
+import Creator from "./Pages/Creator";
 import Footer from "./components/Footer";
 
 
@@ -28,7 +28,7 @@ const App = () => {
           <Route path="/javascript" element={<JavaScript />} />
           <Route path="/react" element={<ReactPage />} />
           <Route path="/tools" element={<Tools />} />
-          <Route path="/creator" element={<CreatorProfile />} />
+          <Route path="/creator" element={<Creator />} />
         </Routes>
       <Footer/>
       </Box>

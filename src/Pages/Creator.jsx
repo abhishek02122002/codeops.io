@@ -160,13 +160,13 @@ const ImageGalleryModal = ({ isOpen, onClose, images: initialImages }) => {
   );
 };
 
-const CreatorProfile = () => {
+const Creator = () => {
   const { colorMode } = useColorMode();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [isLiked, setIsLiked] = useState(false);
   const { isOpen: isGalleryOpen, onOpen: openGallery, onClose: closeGallery } = useDisclosure();
 
-  // Control the animation direction (0 = left, 1 = right, 2 = up, 3 = down)
+
   const animationDirection = 0; 
 
   const getAnimationProps = () => {
@@ -339,4 +339,4 @@ const CreatorProfile = () => {
   );
 };
 
-export default CreatorProfile;
+export default Creator;

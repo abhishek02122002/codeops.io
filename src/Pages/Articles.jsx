@@ -16,7 +16,7 @@ const articles = [
       "JavaScript, a dynamic and versatile language, offers a treasure trove of features often overlooked by beginners and intermediate developers. Advanced developers, however, know how to harness these hidden gems to write elegant, efficient, and powerful code. In this article, we’ll uncover 10 JavaScript tricks that can elevate your coding game.",
     mediumLink:
       "https://medium.com/@vitaliykorzenkoua/the-most-difficult-javascript-interview-question-405cdbdd75eb",
-    image: "public/blog-images/blog-img.png",
+    image: "/blog-images/blog-img.png",
   },
   {
     title: "Five things vibe coders should know (from a software engineer)",
@@ -24,14 +24,14 @@ const articles = [
       "And it underlines a bit of a problem with vibe coding; people are unaware that the code they’re generating and the apps they’re deploying might be leaving them open to vulnerabilities.",
     mediumLink:
       "https://medium.com/user-experience-design-1/five-things-vibe-coders-should-know-from-a-software-engineer-b2adb410a2c6",
-    image: "public/blog-images/blog-img-third.png",
+    image: "/blog-images/blog-img-third.png",
   },
   {
     title: "Building an AI-Powered Football Commentator",
     excerpt: "Generate commentary audio using OpenAI, ElevenLabs and open-source football data",
     mediumLink:
       "https://medium.com/better-programming/building-an-ai-powered-football-commentator-6dbff5af9a88",
-    image:  "public/blog-images/blog-img-second.png",
+    image:  "/blog-images/blog-img-second.png",
   },
 ];
 
