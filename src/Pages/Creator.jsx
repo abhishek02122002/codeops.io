@@ -49,12 +49,12 @@ const creatorData = {
   },
   cover: "public/blog-images/blog-img-second.png",
   images: [
-    "public/images/img.jpeg",
-    "public/images/img2.jpeg",
-    "public/images/img3.jpeg",
-    "public/images/img4.jpeg",
-    "public/images/img5.jpeg",
-    "public/images/img6.jpeg"
+    "/images/img.jpeg",
+    "/images/img2.jpeg",
+    "/images/img3.jpeg",
+    "/images/img4.jpeg",
+    "/images/img5.jpeg",
+    "/images/img6.jpeg"
   ]
 };
 

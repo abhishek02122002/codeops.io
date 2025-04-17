@@ -32,9 +32,9 @@ const projects = [
   {
     "title": "To-Do List App",
     "images": [
-      "public/projects-image/todo-Project/to-do-project-second.png",
-      "public/projects-image/todo-Project/to-do-project.png",
-      "public/projects-image/todo-Project/to-do-project-second.png"
+      "/projects-image/todo-Project/to-do-project-second.png",
+      "/projects-image/todo-Project/to-do-project.png",
+      "/projects-image/todo-Project/to-do-project-second.png"
     ],
     "tags": ["#day1", "useState", "eventHandling"],
     "youtube": "https://www.youtube.com/results?search_query=to+do+list+app+using+react+js+",
@@ -46,9 +46,9 @@ const projects = [
   {
     "title": "Weather App",
     "images": [
-      "public/projects-image/weather-app/weather-one.png",
-      "public/projects-image/weather-app/weather-three.png",
-      "public/projects-image/weather-app/weather-two.png"
+      "/projects-image/weather-app/weather-one.png",
+      "/projects-image/weather-app/weather-three.png",
+      "/projects-image/weather-app/weather-two.png"
     ],
     "tags": ["#day2", "useEffect", "API"],
     "youtube": "https://www.youtube.com/embed/weather-app",
@@ -60,9 +60,9 @@ const projects = [
   {
     "title": "Expense Tracker",
     "images": [
-      "public/projects-image/expense-tracker/expense-one.png",
-      "public/projects-image/expense-tracker/expense-three.jpg",
-      "public/projects-image/expense-tracker/expense-two.png"
+      "/projects-image/expense-tracker/expense-one.png",
+      "/projects-image/expense-tracker/expense-three.jpg",
+      "/projects-image/expense-tracker/expense-two.png"
     ],
     "tags": ["#day3", "useState", "useContext"],
     "youtube": "https://www.youtube.com/embed/expense-tracker",
@@ -74,9 +74,9 @@ const projects = [
   {
     "title": "Blog App",
     "images": [
-      "public/projects-image/blog-project/blog-one.jpg",
-      "public/projects-image/blog-project/blog-second.jpg",
-      "public/projects-image/blog-project/blog-three.png"
+      "/projects-image/blog-project/blog-one.jpg",
+      "/projects-image/blog-project/blog-second.jpg",
+      "/projects-image/blog-project/blog-three.png"
     ],
     "tags": ["#day4", "React Router", "CRUD"],
     "youtube": "https://www.youtube.com/embed/blog-app",
@@ -88,9 +88,9 @@ const projects = [
   {
     "title": "E-commerce Product Listing",
     "images": [
-      "public/projects-image/ecommerce/ecommerce-one.png",
-      "public/projects-image/ecommerce/ecommerce-third.png",
-      "public/projects-image/ecommerce/ecommerce-two.png"
+      "/projects-image/ecommerce/ecommerce-one.png",
+      "/projects-image/ecommerce/ecommerce-third.png",
+      "/projects-image/ecommerce/ecommerce-two.png"
     ],
     "tags": ["#day5", "Redux Toolkit", "Filters"],
     "youtube": "https://www.youtube.com/embed/ecommerce",
@@ -102,9 +102,9 @@ const projects = [
   {
     "title": "Movie Search App",
     "images": [
-      "public/projects-image/movie-app/movie-one.jpg",
-      "public/projects-image/movie-app/movie-third.avif",
-      "public/projects-image/movie-app/movie-second.webp"
+      "/projects-image/movie-app/movie-one.jpg",
+      "/projects-image/movie-app/movie-third.avif",
+      "/projects-image/movie-app/movie-second.webp"
     ],
     "tags": ["#day6", "API Integration", "Pagination"],
     "youtube": "https://www.youtube.com/embed/movie-search",
@@ -116,9 +116,9 @@ const projects = [
   {
     "title": "Real-Time Chat App",
     "images": [
-      "public/projects-image/chat-project/chat-one.jpg",
-      "public/projects-image/chat-project/chat-two.jpg",
-      "public/projects-image/chat-project/chat-three.png",
+      "/projects-image/chat-project/chat-one.jpg",
+      "/projects-image/chat-project/chat-two.jpg",
+      "/projects-image/chat-project/chat-three.png",
     ],
     "tags": ["#day7", "Firebase", "Authentication"],
     "youtube": "https://www.youtube.com/embed/chat-app",
@@ -130,9 +130,9 @@ const projects = [
   {
     "title": "Next.js Blog with MDX",
     "images": [
-      "public/projects-image/next-project/next-one.png",
-      "public/projects-image/next-project/next-three.jpg",
-      "public/projects-image/next-project/next-two.jpg"
+      "/projects-image/next-project/next-one.png",
+      "/projects-image/next-project/next-three.jpg",
+      "/projects-image/next-project/next-two.jpg"
     ],
     "tags": ["#day8", "Next.js", "Markdown"],
     "youtube": "https://www.youtube.com/embed/nextjs-blog",
@@ -144,9 +144,9 @@ const projects = [
   {
     "title": "Full-Stack Job Portal",
     "images": [
-      "public/projects-image/job-project/job-one.jpg",
-      "public/projects-image/job-project/job-three.jpg",
-      "public/projects-image/job-project/job-two.avif"
+      "/projects-image/job-project/job-one.jpg",
+      "/projects-image/job-project/job-three.jpg",
+      "/projects-image/job-project/job-two.avif"
     ],
     "tags": ["#day9", "Next.js", "MongoDB", "JWT"],
     "youtube": "https://www.youtube.com/embed/job-portal",
@@ -158,9 +158,9 @@ const projects = [
   {
     "title": "SaaS Dashboard",
     "images": [
-      "public/projects-image/dashbaord-app/dashbaord-one.png",
-      "public/projects-image/dashbaord-app/dashbaord-three.jpg",
-      "public/projects-image/dashbaord-app/dashbaord-two.png"
+      "/projects-image/dashbaord-app/dashbaord-one.png",
+      "/projects-image/dashbaord-app/dashbaord-three.jpg",
+      "/projects-image/dashbaord-app/dashbaord-two.png"
     ],
     "tags": ["#day10", "Next.js", "Redux", "Chart.js"],
     "youtube": "https://www.youtube.com/embed/saas-dashboard",
