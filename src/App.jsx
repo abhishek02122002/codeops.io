@@ -1,14 +1,14 @@
 import { Box, useColorMode } from "@chakra-ui/react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import Articles from "./pages/Articles";
-import JavaScript from "./pages/JavaScript";
-import ReactPage from "./pages/ReactPage";
-import Tools from "./pages/Tools";
-import Creator from "../pages/Creator";
+import Home from "./Pages/Home";
+import Articles from "../Pages/Articles";
+import JavaScript from "./Pages/JavaScript";
+import ReactPage from "./Pages/ReactPage";
+import Tools from "./Pages/Tools";
+import Creator from "../Pages/Creator";
 import Footer from "./components/Footer";
-import FloatingCode from './components/FloatingCode'
+
 
 
 const App = () => {
