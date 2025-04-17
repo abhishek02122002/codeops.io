@@ -2,11 +2,11 @@ import { Box, useColorMode } from "@chakra-ui/react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./Pages/Home";
-import Articles from "../Pages/Articles";
+import Articles from "./Pages/Articles";
 import JavaScript from "./Pages/JavaScript";
 import ReactPage from "./Pages/ReactPage";
 import Tools from "./Pages/Tools";
-import Creator from "../Pages/Creator";
+import Creator from "./Pages/Creator";
 import Footer from "./components/Footer";
 
 

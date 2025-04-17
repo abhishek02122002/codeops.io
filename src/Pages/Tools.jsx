@@ -189,7 +189,8 @@ Your current stack: ${techNames}`;
           duration: 2000,
           isClosable: true,
         });
-      } catch (error) {
+      } catch (err) {
+        console.log(err);
         toast({
           title: "Error",
           description: "Failed to generate response",
