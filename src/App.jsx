@@ -50,7 +50,7 @@ import ReactPage from "./Pages/ReactPage";
 import Tools from "./Pages/Tools";
 import Creator from "./Pages/Creator";
 import Footer from "./components/Footer";
-import ChallengeSection from "./components/ChallengeSection";
+import ChallengeSection from './components/challengeSection'
 import { useEffect, useState } from "react";
 
 const App = () => {
