@@ -203,12 +203,12 @@ const Footer = () => {
             </Text>
             <HStack spacing={4} mb={4} flexWrap="wrap">
               {[
-                { icon: <FaGithub />, label: "GitHub", url: "https://github.com" },
-                { icon: <FaTwitter />, label: "Twitter", url: "https://twitter.com" },
-                { icon: <FaLinkedin />, label: "LinkedIn", url: "https://linkedin.com" },
-                { icon: <FaYoutube />, label: "YouTube", url: "https://youtube.com" },
+                { icon: <FaGithub />, label: "GitHub", url: "https://github.com/abhishek02122002" },
+                { icon: <FaTwitter />, label: "Twitter", url: "https://x.com/Abhishek021217" },
+                { icon: <FaLinkedin />, label: "LinkedIn", url: "https://www.linkedin.com/in/abhishekkumarsingh17/" },
+                { icon: <FaYoutube />, label: "YouTube", url: "https://www.youtube.com/@AbhishekSingh0212" },
                 { icon: <SiDevdotto />, label: "Dev.to", url: "https://dev.to" },
-                { icon: <SiHashnode />, label: "Hashnode", url: "https://hashnode.com" }
+                { icon: <SiHashnode />, label: "Hashnode", url: "https://hashnode.com/@abhishek1702" }
               ].map((social, i) => (
                 <motion.div
                   key={i}

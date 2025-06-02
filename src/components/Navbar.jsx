@@ -94,6 +94,11 @@ const Navbar = () => {
               <Button variant="ghost" as={Link} to="/tools">
                 Tools
               </Button>
+
+              <Button variant="ghost" as={Link} to="/roadmap">
+                Roadmap
+              </Button>
+
               <Button variant="ghost" as={Link} to="/creator">
                 Creator
               </Button>
@@ -101,7 +106,7 @@ const Navbar = () => {
                 onClick={toggleColorMode}
                 icon={colorMode === "light" ? <MoonIcon /> : <SunIcon />}
                 isRound
-                variant="outline"
+                variant="outlinemp"
               />
             </Flex>
           )}
