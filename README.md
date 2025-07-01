@@ -2,6 +2,8 @@
 
 **Your one-stop hub for TypeScript, React & Next.js learning, practice, and mentorship.**
 
+🔗 **Live Site**: [https://codeops-io.pages.dev/](https://codeops-io.pages.dev/)
+
 ---
 
 ## 🌟 Overview
@@ -13,7 +15,7 @@ CodeOps is a developer-centric platform designed to:
 - Provide **revision-ready documentation capsules** for quick refreshers  
 - Visualize your learning journey with an **interactive road‑map**
 
-> “CodeOps is a developer-focused platform that brings together learning, practice, and guidance into one seamless experience…” :contentReference[oaicite:1]{index=1}
+> “CodeOps is a developer-focused platform that brings together learning, practice, and guidance into one seamless experience.”
 
 ---
 
@@ -35,18 +37,14 @@ CodeOps is a developer-centric platform designed to:
 - Visual journey map of technologies & steps  
 - Helps track progress and plan next moves
 
-### 🔗 Project Infrastructure  
-- Built with **Next.js**, enhanced by **TypeScript**  
-- Likely static deployment (e.g. GitHub Pages, Vercel)
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js + React  
 - **Language**: TypeScript  
-- **Styles / Layout**: CSS Modules, Tailwind or Styled Components (assumed)  
-- **Deployment**: Static site hosting (GitHub Pages, Vercel, or similar)
+- **Styles / Layout**: CSS Modules / Tailwind CSS (assumed)  
+- **Deployment**: Static site hosting (e.g. Vercel or GitHub Pages)
 
 ---
 
@@ -59,7 +57,8 @@ CodeOps is a developer-centric platform designed to:
 
 ### Running Locally
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/abhishek02122002/codeops.io.git
-   cd codeops.io
+```bash
+git clone https://github.com/your-username/codeops.io.git
+cd codeops.io
+npm install
+npm run dev
